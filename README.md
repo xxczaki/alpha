@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://codeclimate.com/github/xxczaki/akepinski.me/coverage">
-    <img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg"
+    <img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/akepinski-dev"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
