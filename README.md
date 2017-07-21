@@ -9,7 +9,7 @@
 <h4 align="center">Simple "About Me" Website Repository</h4>
 
 <p align="center">
-  <a href="https://codeclimate.com/github/xxczaki/akepinski.me/coverage">
+  <a href="https://codeclimate.com/github/xxczaki/akepinski.me/">
     <img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg"
          alt="Gitter">
   </a>
