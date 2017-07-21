@@ -1,0 +1,81 @@
+/** ... */
+*{
+	padding: 0;
+	margin: 0;	
+}
+
+body{
+	font-family: 'Roboto Mono', monospace;
+	color: white;
+	font-size: 2.5em;	
+	background-color: #301C0D;
+	background-image: url("img/muffins.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+}
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+	color: #FFA9DC;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-weight: lighter;
+}
+p{
+	margin: 15px 20px;
+	color: #fafafa;
+}
+a#carito{
+	color: #FFA9DC;
+	text-decoration: none;
+}
+a#carito:hover{
+	color: white;
+	background-color: #FFA9DC;
+	text-decoration: none;
+}
+a#davsket{
+	color: #44B7F9;
+	text-decoration: none;
+}
+a#davsket:hover{
+	color: white;
+	background-color: #44B7F9;
+	text-decoration: none;
+}
+#flickr{
+	font-size: 15px;
+	color:#eee;
+	text-decoration: none;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	background-image: url("img/icon-cc.png");
+	background-repeat: no-repeat;
+	padding-left: 20px;
+}
+#pauseplay{
+	font-size: 15px;
+	color:#eee;
+	text-decoration: none;
+	position: relative;
+	float: right;
+	top: 0px;
+	right: 10px;
+	font-weight: bold;
+}
+#hbday{
+	
+}
+#myytplayer, #ytapiplayer{
+	position: absolute;
+	top: -3000px;
+}
+#wrapper{
+	width: 960px;
+	height: 600px;
+	margin: auto;
+	
+	text-align: left;
+}
