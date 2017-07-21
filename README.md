@@ -9,7 +9,7 @@
 <h4 align="center">Simple "About Me" Website Repository</h4>
 
 <p align="center">
-  <a href="https://codeclimate.com/github/codeclimate/codeclimate/coverage">
+  <a href="https://codeclimate.com/github/xxczaki/akepinski.me/coverage">
     <img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg"
          alt="Gitter">
   </a>
@@ -51,19 +51,21 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 
 ## Demo
 
-C
+Click [HERE](https://akepinski.me) to see demo :)
 
-## You may also like...
+## My Other Repositories
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Logger](https://github.com/xxczaki/logger) - Simple & Undetected Windows Keylogger (Based on Kernel).
+- [Online Badges](https://github.com/xxczaki/online-badges) - A lot of online badges for your Github Projects.
+
+## Social Media
+
+> Website [akepinski.me](https://akepinski.me) &nbsp;&middot;&nbsp;
+> GitHub [@xxczaki](https://github.com/xxczaki) &nbsp;&middot;&nbsp;
+> Twitter [@dokwadratu](https://twitter.com/dokwadratu)
 
 #### License
 
 MIT
 
 ---
-
-> [akepinski.me](https://akepinski.me) &nbsp;&middot;&nbsp;
-> GitHub [@xxczaki](https://github.com/xxczaki) &nbsp;&middot;&nbsp;
-> Twitter [@dokwadratu](https://twitter.com/dokwadratu)
