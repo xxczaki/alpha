@@ -20,14 +20,7 @@ This project welcomes any kind of contribution! Here are a few suggestions:
 
 ## Code Style
 
-[![standard][standard-image]][standard-url]
-
-This repository uses [`standard`][standard-url] to maintain code style and consistency, and to avoid style arguments.
-
-[standard-image]: https://cdn.rawgit.com/feross/standard/master/badge.svg
-[standard-url]: https://github.com/feross/standard
-[semistandard-image]: https://cdn.rawgit.com/flet/semistandard/master/badge.svg
-[semistandard-url]: https://github.com/Flet/semistandard
+SEE: https://www.w3schools.com/html/html5_syntax.asp
 
 ## Project Governance
 
