@@ -9,8 +9,8 @@
 <h4 align="center">Simple "About Me" Website Repository</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="https://codeclimate.com/github/codeclimate/codeclimate/coverage">
+    <img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/akepinski-dev"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
