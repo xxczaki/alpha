@@ -41,10 +41,6 @@
 4. *(OPTIONAL)* Change htaccess file (if your website doesn't have SSL or you don't want to force HTTPS).
 5. Done.
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) latest installable version of Markdownify for Windows, macOS and Linux.
-
 ## Authors
 
 - [Antoni Kepinski](https://github.com/xxczaki)
