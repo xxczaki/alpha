@@ -1,6 +1,5 @@
 DirectoryIndex index.html index.php index.htm parking-page.html
 
 RewriteEngine On 
-RewriteCond %{HTTP_HOST} ^akepinski\.me [NC]
 RewriteCond %{SERVER_PORT} 80 
-RewriteRule ^(.*)$ https://www.akepinski.me/$1 [R,L]
+RewriteRule ^(.*)$ https://akepinski.me/$1 [R,L]
