@@ -4,8 +4,10 @@
 
 html {
   align-items: center;
-  background-color: #0099da;    /* 0099da */
-  background-image: linear-gradient(50deg, #003248, #0099da);  /* #003248, #0099da */
+  background-color: #0099da;
+  /* 0099da */
+  background-image: linear-gradient(50deg, #003248, #0099da);
+  /* #003248, #0099da */
   color: rgba(255, 255, 255, 0.85);
   display: flex;
   flex-direction: column;
@@ -33,7 +35,7 @@ html {
 
 .avatar {
   border-radius: 100%;
-  box-shadow: rgba(0,0,0,0.4) 0 3px 12px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0 3px 12px;
   max-width: 150px;
   pointer-events: none;
   width: 40vw;
@@ -62,10 +64,4 @@ html {
 .social-link:hover {
   color: rgba(255, 255, 255, 0.85);
   transform: translate(0, -0.2rem) scale(1.1);
-}
-
-.fa-file-pdf-o.fa-file-pdf-o {
-  font-size: 1.3rem;
-  position: relative;
-  top: -1px;
 }
