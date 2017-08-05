@@ -60,6 +60,15 @@ Click [HERE](https://akepinski.me) to see demo :)
 > GitHub [@xxczaki](https://github.com/xxczaki) &nbsp;&middot;&nbsp;
 > Twitter [@dokwadratu](https://twitter.com/dokwadratu)
 
+## Special Thanks to:
+
+![BrowserStack](https://www.browserstack.com/images/layout/logo.png) 
+
+&
+
+![Netlify](https://www.netlify.com/img/global/badges/netlify-color-bg.svg)
+
+
 #### License
 
 MIT
