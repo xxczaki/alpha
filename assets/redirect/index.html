@@ -1,0 +1,19 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Redirecting...</title>
+</head>
+<body>
+    Redirecting...
+    <script>
+        try {
+            var url = window.location.search.match(/url=([^&]+)/)[1]
+            window.location.replace(url)
+        } catch(e) {
+            alert('Invalid format, it should be: ?url=YOUR_URL')
+        }
+    </script>
+</body>
+</html>
