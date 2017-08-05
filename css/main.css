@@ -4,10 +4,8 @@
 
 html {
   align-items: center;
-  background-color: #0099da;
-  /* 0099da */
-  background-image: linear-gradient(50deg, #003248, #0099da);
-  /* #003248, #0099da */
+  background-color: #424242;
+  background-image: linear-gradient(50deg, #212121, #424242);
   color: rgba(255, 255, 255, 0.85);
   display: flex;
   flex-direction: column;
