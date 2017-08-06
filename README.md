@@ -23,7 +23,7 @@
 </p>
 <br>
 
-![screenshot](https://raw.githubusercontent.com/xxczaki/akepinski.me/master/demo.png)
+![Demo](https://raw.githubusercontent.com/xxczaki/akepinski.me/master/demo.png)
 
 ## Stack
 
