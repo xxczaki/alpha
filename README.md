@@ -43,8 +43,9 @@
 
 ## Deploy
 
-You can place this static website on your server or simple click: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/akepinski.me)
+You can place this static website on your server or simple click: 
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/akepinski.me)
 
 ## Authors
 
