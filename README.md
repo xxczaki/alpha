@@ -36,10 +36,15 @@
 ## How To Use
 
 1. Download this repository.
-2. Delete unnecessary files (readme.md, stack1.png etc.)
+2. Delete unnecessary files (readme.md, logo.png etc.)
 3. Change CNAME file for your website.
 4. *(OPTIONAL)* Change htaccess file (if your website doesn't have SSL or you don't want to force HTTPS).
 5. Done.
+
+## Deploy
+
+You can place this static website on your server or simple click: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/akepinski.me)
+
 
 ## Authors
 
