@@ -66,12 +66,12 @@ html {
 
 .button {
   display: block;
-  font-size: $font_size;
+  font-size: 12px;
   text-align: center;
-  line-height: $height;
+  line-height: 44px;
   text-decoration: none;
-  color: $txt_color;
-  background-color: $bg;
+  color: white;
+  background-color: #212121;
   border-radius: 4px;
   @include middle($width, $height);
   @include text-shadow(0 -1px -1px darken($bg, 7%));
@@ -81,14 +81,14 @@ html {
   @include transition(all .15s ease-in-out);
   
   &:hover{
-    background-color: $bg_hover;
+    background-color: lighten(#CC4331, 5%);
     @include text-shadow(0 -1px -1px darken($bg_hover, 7%));
     @include box-shadow(
       0 4px 0 darken($bg_hover, 7%),
       0 5px 5px 1px $bg_shadow);
   }
   &:active {
-    margin-top: (-$height)/2 + 4;
+    margin-top: (- 44px)/2 + 4;
     @include box-shadow(none);
   }
 }
