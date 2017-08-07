@@ -29,7 +29,6 @@
 
 * HTML 5
 * CSS 3
-* Javascript 5
 * Font Awesome 5 Pro 
 * Google Fonts
 
