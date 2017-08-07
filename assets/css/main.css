@@ -63,3 +63,32 @@ html {
   color: rgba(255, 255, 255, 0.85);
   transform: translate(0, -0.2rem) scale(1.1);
 }
+
+.button {
+  display: block;
+  font-size: $font_size;
+  text-align: center;
+  line-height: $height;
+  text-decoration: none;
+  color: $txt_color;
+  background-color: $bg;
+  border-radius: 4px;
+  @include middle($width, $height);
+  @include text-shadow(0 -1px -1px darken($bg, 7%));
+  @include box-shadow(
+    0 4px 0 darken($bg, 7%),
+    0 5px 5px 1px $bg_shadow);
+  @include transition(all .15s ease-in-out);
+  
+  &:hover{
+    background-color: $bg_hover;
+    @include text-shadow(0 -1px -1px darken($bg_hover, 7%));
+    @include box-shadow(
+      0 4px 0 darken($bg_hover, 7%),
+      0 5px 5px 1px $bg_shadow);
+  }
+  &:active {
+    margin-top: (-$height)/2 + 4;
+    @include box-shadow(none);
+  }
+}
