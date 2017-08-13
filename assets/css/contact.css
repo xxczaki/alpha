@@ -2,7 +2,7 @@ body {
   font-family:'Roboto Mono',monospace;
   font-size: 25px;
   color: rgba(255, 255, 255, 1);
-  background-color: rgba(236, 181, 62, 0.95);
+  background-color: #444444;
   text-align: center;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
