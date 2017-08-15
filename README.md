@@ -80,4 +80,3 @@ Click [HERE](https://akepinski.me) to see demo :)
 TODO:
 
 * Update Screenshot
-* Make contact.html a working PHP form.
