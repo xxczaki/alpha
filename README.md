@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Simple "About Me" Website Repository</h4>
+<h4 align="center">My Static Website Repository</h4>
 
 <p align="center">
   <a href="https://codeclimate.com/github/xxczaki/akepinski.me">
