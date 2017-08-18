@@ -75,4 +75,4 @@ Click [HERE](https://akepinski.me) to see demo :)
 
 ---
 
-![Netlify](https://www.netlify.com/img/global/badges/netlify-color-bg.svg)
+![Firebase](https://raw.githubusercontent.com/xxczaki/akepinski.me/master/firebase.png)
