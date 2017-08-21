@@ -56,8 +56,8 @@ Click [HERE](https://akepinski.me) to see demo :)
 
 ## My Other Repositories
 
-- [Logger](https://github.com/xxczaki/logger) - Simple & Undetected Windows Keylogger (Based on Kernel).
-- [Online Badges](https://github.com/xxczaki/online-badges) - A lot of online badges for your Github Projects.
+- [Logger](https://github.com/xxczaki/logger) - Simple & Undetected Windows Keylogger.
+- [Calculator.js](https://github.com/xxczaki/calculator.js) - Web Calculator Designed with Google Material Design.
 
 ## Social Media
 
@@ -72,7 +72,3 @@ Click [HERE](https://akepinski.me) to see demo :)
 #### License
 
 [MIT](https://opensource.org/licenses/MIT)
-
-
-
-![Firebase](https://raw.githubusercontent.com/xxczaki/akepinski.me/master/firebase.png)
