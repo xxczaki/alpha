@@ -36,7 +36,6 @@ html {
   border-radius: 100%;
   box-shadow: rgba(0, 0, 0, .4) 0 3px 12px;
   max-width: 150px;
-  image-rendering: auto;
   pointer-events: none;
   width: 40vw
 }
@@ -66,15 +65,4 @@ html {
 .social-link:hover {
   color: rgba(255, 255, 255, .85);
   transform: translate(0, -.2rem) scale(1.1)
-}
-
-.button { /* TODO */
-  background-color: #212121;
-  border-radius: 8px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
 }
