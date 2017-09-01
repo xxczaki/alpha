@@ -36,6 +36,7 @@ html {
   border-radius: 100%;
   box-shadow: rgba(0, 0, 0, .4) 0 3px 12px;
   max-width: 150px;
+  image-rendering: pixelated;
   pointer-events: none;
   width: 40vw
 }
