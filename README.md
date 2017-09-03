@@ -31,6 +31,7 @@
 * CSS 3
 * Font Awesome 5 Pro
 * Google Fonts
+* Netlify (for back-end less contact form)
 
 ## How To Use
 
