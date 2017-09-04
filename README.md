@@ -27,8 +27,6 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 
-*Note: Site is currently changing server from Netlify to AWS Hosting. You can expect a huge delay or errors. I will remove this note once it's done.*
-
 ## Stack
 
 * HTML 5
