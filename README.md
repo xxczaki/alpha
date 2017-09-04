@@ -25,6 +25,8 @@
 
 ![Demo](https://raw.githubusercontent.com/xxczaki/akepinski.me/master/demo.png)
 
+[![forthebadge](http://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
+
 ## Stack
 
 * HTML 5
