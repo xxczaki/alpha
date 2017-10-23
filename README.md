@@ -2,11 +2,11 @@
   <br>
   <a href="https://akepinski.me/"><img src="https://raw.githubusercontent.com/xxczaki/akepinski.me/master/logo.jpg" alt="akepinski" width="200"></a>
   <br>
-  akepinski.me
+  alpha
   <br>
 </h1>
 
-<h4 align="center">My Static Website Repository</h4>
+<h4 align="center">Static Website Theme, My old website source</h4>
 
 <p align="center">
   <a href="https://codeclimate.com/github/xxczaki/akepinski.me">
@@ -31,7 +31,7 @@
 
 * HTML 5
 * CSS 3
-* Font Awesome 5 Pro
+* Font Awesome 4.7
 * Google Fonts
 
 ## How To Use
@@ -46,15 +46,11 @@
 
 You can place this static website on your server or simple click:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/akepinski.me)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xxczaki/alpha)
 
 ## Authors
 
 - [Antoni Kepinski](https://github.com/xxczaki)
-
-## Demo
-
-Click [HERE](https://akepinski.me) to see demo :)
 
 ## My Other Repositories
 
